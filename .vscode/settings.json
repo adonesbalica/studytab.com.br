@@ -1,8 +1,9 @@
 {
   "editor.renderWhitespace": "none",
   "editor.minimap.renderCharacters": false,
-  "editor.fontSize": 13,
-  "window.zoomLevel": 0.3,
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
